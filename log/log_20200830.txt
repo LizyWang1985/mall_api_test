@@ -1,0 +1,593 @@
+[2020-08-30 22:07:00] DEBUG [query: db.py, 14] SELECT * FROM pms_brand WHERE name="{}";.format(BRAND_DATA[name])
+[2020-08-30 22:10:26] DEBUG [query: db.py, 14] SELECT * FROM pms_brand WHERE name="{}";.format(name)
+[2020-08-30 22:11:06] DEBUG [query: db.py, 14] SELECT * FROM pms_brand WHERE name="{}";.format(name)
+[2020-08-30 22:12:10] DEBUG [query: db.py, 14] SELECT * FROM pms_brand WHERE name="VIVO";
+[2020-08-30 22:18:24] DEBUG [query: db.py, 14] SELECT * FROM pms_brand WHERE name="VIVO";
+[2020-08-30 22:20:02] DEBUG [query: db.py, 14] SELECT * FROM pms_brand WHERE name="VIVO";
+[2020-08-30 22:20:02] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-30 22:20:02] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "POST /manager/brand/create HTTP/1.1" 200 None
+[2020-08-30 22:20:02] DEBUG [feed: sjisprober.py, 60] SHIFT_JIS Japanese prober hit error at byte 35
+[2020-08-30 22:20:02] DEBUG [feed: eucjpprober.py, 61] EUC-JP Japanese prober hit error at byte 24
+[2020-08-30 22:20:02] DEBUG [feed: mbcharsetprober.py, 65] EUC-KR Korean prober hit error at byte 24
+[2020-08-30 22:20:02] DEBUG [feed: mbcharsetprober.py, 65] CP949 Korean prober hit error at byte 24
+[2020-08-30 22:20:02] DEBUG [feed: mbcharsetprober.py, 65] Big5 Chinese prober hit error at byte 25
+[2020-08-30 22:20:02] DEBUG [feed: mbcharsetprober.py, 65] EUC-TW Taiwan prober hit error at byte 24
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.0
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.01
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.01
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.01
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.42942487984691863
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:20:02] DEBUG [feed: sjisprober.py, 60] SHIFT_JIS Japanese prober hit error at byte 35
+[2020-08-30 22:20:02] DEBUG [feed: eucjpprober.py, 61] EUC-JP Japanese prober hit error at byte 24
+[2020-08-30 22:20:02] DEBUG [feed: mbcharsetprober.py, 65] EUC-KR Korean prober hit error at byte 24
+[2020-08-30 22:20:02] DEBUG [feed: mbcharsetprober.py, 65] CP949 Korean prober hit error at byte 24
+[2020-08-30 22:20:02] DEBUG [feed: mbcharsetprober.py, 65] Big5 Chinese prober hit error at byte 25
+[2020-08-30 22:20:02] DEBUG [feed: mbcharsetprober.py, 65] EUC-TW Taiwan prober hit error at byte 24
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.0
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.01
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.01
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.01
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.42942487984691863
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:20:02] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:30:19] DEBUG [query: db.py, 14] SELECT * FROM pms_brand WHERE name="VIVO";
+[2020-08-30 22:30:19] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-30 22:30:19] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "POST /manager/brand/create HTTP/1.1" 200 None
+[2020-08-30 22:30:19] DEBUG [feed: sjisprober.py, 60] SHIFT_JIS Japanese prober hit error at byte 35
+[2020-08-30 22:30:19] DEBUG [feed: eucjpprober.py, 61] EUC-JP Japanese prober hit error at byte 24
+[2020-08-30 22:30:19] DEBUG [feed: mbcharsetprober.py, 65] EUC-KR Korean prober hit error at byte 24
+[2020-08-30 22:30:19] DEBUG [feed: mbcharsetprober.py, 65] CP949 Korean prober hit error at byte 24
+[2020-08-30 22:30:19] DEBUG [feed: mbcharsetprober.py, 65] Big5 Chinese prober hit error at byte 25
+[2020-08-30 22:30:19] DEBUG [feed: mbcharsetprober.py, 65] EUC-TW Taiwan prober hit error at byte 24
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.0
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.01
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.01
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.01
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.42942487984691863
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:30:19] DEBUG [feed: sjisprober.py, 60] SHIFT_JIS Japanese prober hit error at byte 35
+[2020-08-30 22:30:19] DEBUG [feed: eucjpprober.py, 61] EUC-JP Japanese prober hit error at byte 24
+[2020-08-30 22:30:19] DEBUG [feed: mbcharsetprober.py, 65] EUC-KR Korean prober hit error at byte 24
+[2020-08-30 22:30:19] DEBUG [feed: mbcharsetprober.py, 65] CP949 Korean prober hit error at byte 24
+[2020-08-30 22:30:19] DEBUG [feed: mbcharsetprober.py, 65] Big5 Chinese prober hit error at byte 25
+[2020-08-30 22:30:19] DEBUG [feed: mbcharsetprober.py, 65] EUC-TW Taiwan prober hit error at byte 24
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.0
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.01
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.01
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.01
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.42942487984691863
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:30:19] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:39:04] DEBUG [query: db.py, 14] SELECT * FROM pms_brand WHERE name="VIVO";
+[2020-08-30 22:39:04] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-30 22:39:04] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "POST /manager/brand/create HTTP/1.1" 200 None
+[2020-08-30 22:39:04] DEBUG [feed: sjisprober.py, 60] SHIFT_JIS Japanese prober hit error at byte 35
+[2020-08-30 22:39:04] DEBUG [feed: eucjpprober.py, 61] EUC-JP Japanese prober hit error at byte 24
+[2020-08-30 22:39:04] DEBUG [feed: mbcharsetprober.py, 65] EUC-KR Korean prober hit error at byte 24
+[2020-08-30 22:39:04] DEBUG [feed: mbcharsetprober.py, 65] CP949 Korean prober hit error at byte 24
+[2020-08-30 22:39:04] DEBUG [feed: mbcharsetprober.py, 65] Big5 Chinese prober hit error at byte 25
+[2020-08-30 22:39:04] DEBUG [feed: mbcharsetprober.py, 65] EUC-TW Taiwan prober hit error at byte 24
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.0
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.01
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.01
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.01
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.42942487984691863
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:39:04] DEBUG [feed: sjisprober.py, 60] SHIFT_JIS Japanese prober hit error at byte 35
+[2020-08-30 22:39:04] DEBUG [feed: eucjpprober.py, 61] EUC-JP Japanese prober hit error at byte 24
+[2020-08-30 22:39:04] DEBUG [feed: mbcharsetprober.py, 65] EUC-KR Korean prober hit error at byte 24
+[2020-08-30 22:39:04] DEBUG [feed: mbcharsetprober.py, 65] CP949 Korean prober hit error at byte 24
+[2020-08-30 22:39:04] DEBUG [feed: mbcharsetprober.py, 65] Big5 Chinese prober hit error at byte 25
+[2020-08-30 22:39:04] DEBUG [feed: mbcharsetprober.py, 65] EUC-TW Taiwan prober hit error at byte 24
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.0
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.01
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.01
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.01
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.42942487984691863
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:39:04] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:40:45] DEBUG [query: db.py, 14] SELECT * FROM pms_brand WHERE name="VIVO";
+[2020-08-30 22:40:45] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-30 22:40:46] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "POST /manager/brand/create HTTP/1.1" 200 None
+[2020-08-30 22:40:46] DEBUG [feed: sjisprober.py, 60] SHIFT_JIS Japanese prober hit error at byte 35
+[2020-08-30 22:40:46] DEBUG [feed: eucjpprober.py, 61] EUC-JP Japanese prober hit error at byte 24
+[2020-08-30 22:40:46] DEBUG [feed: mbcharsetprober.py, 65] EUC-KR Korean prober hit error at byte 24
+[2020-08-30 22:40:46] DEBUG [feed: mbcharsetprober.py, 65] CP949 Korean prober hit error at byte 24
+[2020-08-30 22:40:46] DEBUG [feed: mbcharsetprober.py, 65] Big5 Chinese prober hit error at byte 25
+[2020-08-30 22:40:46] DEBUG [feed: mbcharsetprober.py, 65] EUC-TW Taiwan prober hit error at byte 24
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.0
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.01
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.01
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.01
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.42942487984691863
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:40:46] DEBUG [feed: sjisprober.py, 60] SHIFT_JIS Japanese prober hit error at byte 35
+[2020-08-30 22:40:46] DEBUG [feed: eucjpprober.py, 61] EUC-JP Japanese prober hit error at byte 24
+[2020-08-30 22:40:46] DEBUG [feed: mbcharsetprober.py, 65] EUC-KR Korean prober hit error at byte 24
+[2020-08-30 22:40:46] DEBUG [feed: mbcharsetprober.py, 65] CP949 Korean prober hit error at byte 24
+[2020-08-30 22:40:46] DEBUG [feed: mbcharsetprober.py, 65] Big5 Chinese prober hit error at byte 25
+[2020-08-30 22:40:46] DEBUG [feed: mbcharsetprober.py, 65] EUC-TW Taiwan prober hit error at byte 24
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.0
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.01
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.01
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.01
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.42942487984691863
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:40:46] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:40:46] DEBUG [query: db.py, 14] SELECT * FROM pms_brand WHERE name="VIVO";
+[2020-08-30 22:43:54] DEBUG [query: db.py, 14] SELECT * FROM pms_brand WHERE name="VIVO";
+[2020-08-30 22:43:54] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-30 22:43:55] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "POST /manager/brand/create HTTP/1.1" 200 None
+[2020-08-30 22:43:55] DEBUG [feed: sjisprober.py, 60] SHIFT_JIS Japanese prober hit error at byte 35
+[2020-08-30 22:43:55] DEBUG [feed: eucjpprober.py, 61] EUC-JP Japanese prober hit error at byte 24
+[2020-08-30 22:43:55] DEBUG [feed: mbcharsetprober.py, 65] EUC-KR Korean prober hit error at byte 24
+[2020-08-30 22:43:55] DEBUG [feed: mbcharsetprober.py, 65] CP949 Korean prober hit error at byte 24
+[2020-08-30 22:43:55] DEBUG [feed: mbcharsetprober.py, 65] Big5 Chinese prober hit error at byte 25
+[2020-08-30 22:43:55] DEBUG [feed: mbcharsetprober.py, 65] EUC-TW Taiwan prober hit error at byte 24
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.0
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.01
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.01
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.01
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.42942487984691863
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:43:55] DEBUG [feed: sjisprober.py, 60] SHIFT_JIS Japanese prober hit error at byte 35
+[2020-08-30 22:43:55] DEBUG [feed: eucjpprober.py, 61] EUC-JP Japanese prober hit error at byte 24
+[2020-08-30 22:43:55] DEBUG [feed: mbcharsetprober.py, 65] EUC-KR Korean prober hit error at byte 24
+[2020-08-30 22:43:55] DEBUG [feed: mbcharsetprober.py, 65] CP949 Korean prober hit error at byte 24
+[2020-08-30 22:43:55] DEBUG [feed: mbcharsetprober.py, 65] Big5 Chinese prober hit error at byte 25
+[2020-08-30 22:43:55] DEBUG [feed: mbcharsetprober.py, 65] EUC-TW Taiwan prober hit error at byte 24
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.0
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.01
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.01
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.01
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.42942487984691863
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:43:55] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:43:55] DEBUG [query: db.py, 14] SELECT * FROM pms_brand WHERE name="VIVO";
+[2020-08-30 22:44:17] DEBUG [query: db.py, 14] SELECT * FROM pms_brand WHERE name="VIVO";
+[2020-08-30 22:44:17] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-30 22:44:17] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "POST /manager/brand/create HTTP/1.1" 200 None
+[2020-08-30 22:44:17] DEBUG [feed: sjisprober.py, 60] SHIFT_JIS Japanese prober hit error at byte 35
+[2020-08-30 22:44:17] DEBUG [feed: eucjpprober.py, 61] EUC-JP Japanese prober hit error at byte 24
+[2020-08-30 22:44:17] DEBUG [feed: mbcharsetprober.py, 65] EUC-KR Korean prober hit error at byte 24
+[2020-08-30 22:44:17] DEBUG [feed: mbcharsetprober.py, 65] CP949 Korean prober hit error at byte 24
+[2020-08-30 22:44:17] DEBUG [feed: mbcharsetprober.py, 65] Big5 Chinese prober hit error at byte 25
+[2020-08-30 22:44:17] DEBUG [feed: mbcharsetprober.py, 65] EUC-TW Taiwan prober hit error at byte 24
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.0
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.01
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.01
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.01
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.42942487984691863
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:44:17] DEBUG [feed: sjisprober.py, 60] SHIFT_JIS Japanese prober hit error at byte 35
+[2020-08-30 22:44:17] DEBUG [feed: eucjpprober.py, 61] EUC-JP Japanese prober hit error at byte 24
+[2020-08-30 22:44:17] DEBUG [feed: mbcharsetprober.py, 65] EUC-KR Korean prober hit error at byte 24
+[2020-08-30 22:44:17] DEBUG [feed: mbcharsetprober.py, 65] CP949 Korean prober hit error at byte 24
+[2020-08-30 22:44:17] DEBUG [feed: mbcharsetprober.py, 65] Big5 Chinese prober hit error at byte 25
+[2020-08-30 22:44:17] DEBUG [feed: mbcharsetprober.py, 65] EUC-TW Taiwan prober hit error at byte 24
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.0
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.01
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.01
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.01
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.42942487984691863
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:44:17] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:44:17] DEBUG [query: db.py, 14] SELECT * FROM pms_brand WHERE name="VIVO";
+[2020-08-30 22:54:01] DEBUG [query: db.py, 14] SELECT * FROM pms_brand WHERE name="VIVO";
+[2020-08-30 22:54:01] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-30 22:54:01] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "POST /manager/brand/create HTTP/1.1" 200 None
+[2020-08-30 22:54:18] DEBUG [query: db.py, 14] SELECT * FROM pms_brand WHERE name="VIVO";
+[2020-08-30 22:54:18] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-30 22:54:18] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "POST /manager/brand/create HTTP/1.1" 200 None
+[2020-08-30 22:54:18] DEBUG [feed: sjisprober.py, 60] SHIFT_JIS Japanese prober hit error at byte 35
+[2020-08-30 22:54:18] DEBUG [feed: eucjpprober.py, 61] EUC-JP Japanese prober hit error at byte 24
+[2020-08-30 22:54:18] DEBUG [feed: mbcharsetprober.py, 65] EUC-KR Korean prober hit error at byte 24
+[2020-08-30 22:54:18] DEBUG [feed: mbcharsetprober.py, 65] CP949 Korean prober hit error at byte 24
+[2020-08-30 22:54:18] DEBUG [feed: mbcharsetprober.py, 65] Big5 Chinese prober hit error at byte 25
+[2020-08-30 22:54:18] DEBUG [feed: mbcharsetprober.py, 65] EUC-TW Taiwan prober hit error at byte 24
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.01
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.01
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.01
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.42942487984691863
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:54:18] INFO [log_case_info: case_log.py, 7] 测试用例：test_brand_create
+[2020-08-30 22:54:18] INFO [log_case_info: case_log.py, 8] url:http://139.199.12.254/manager/brand/create
+[2020-08-30 22:54:18] INFO [log_case_info: case_log.py, 9] 请求参数：{'bigPic': 'https://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/forum/pic/item/ac4bd11373f08202d0d7ea6d5cfbfbedab641b1e.jpg', 'brandStory': 'VIVO手机的品牌故事', 'factoryStatus': 1, 'firstLetter': 'V', 'logo': 'https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1180996836,1580132188&fm=26&gp=0.jpg', 'name': 'VIVO', 'showStatus': 1, 'sort': 0}
+[2020-08-30 22:54:18] INFO [log_case_info: case_log.py, 10] 期望结果：{'code': 200, 'message': '操作成功', 'data': 1}
+[2020-08-30 22:54:18] INFO [log_case_info: case_log.py, 11] 实际结果：{"code":200,"message":"操作成功","data":1}
+[2020-08-30 22:54:18] DEBUG [feed: sjisprober.py, 60] SHIFT_JIS Japanese prober hit error at byte 35
+[2020-08-30 22:54:18] DEBUG [feed: eucjpprober.py, 61] EUC-JP Japanese prober hit error at byte 24
+[2020-08-30 22:54:18] DEBUG [feed: mbcharsetprober.py, 65] EUC-KR Korean prober hit error at byte 24
+[2020-08-30 22:54:18] DEBUG [feed: mbcharsetprober.py, 65] CP949 Korean prober hit error at byte 24
+[2020-08-30 22:54:18] DEBUG [feed: mbcharsetprober.py, 65] Big5 Chinese prober hit error at byte 25
+[2020-08-30 22:54:18] DEBUG [feed: mbcharsetprober.py, 65] EUC-TW Taiwan prober hit error at byte 24
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.01
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.01
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.01
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.42942487984691863
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:54:18] DEBUG [feed: sjisprober.py, 60] SHIFT_JIS Japanese prober hit error at byte 35
+[2020-08-30 22:54:18] DEBUG [feed: eucjpprober.py, 61] EUC-JP Japanese prober hit error at byte 24
+[2020-08-30 22:54:18] DEBUG [feed: mbcharsetprober.py, 65] EUC-KR Korean prober hit error at byte 24
+[2020-08-30 22:54:18] DEBUG [feed: mbcharsetprober.py, 65] CP949 Korean prober hit error at byte 24
+[2020-08-30 22:54:18] DEBUG [feed: mbcharsetprober.py, 65] Big5 Chinese prober hit error at byte 25
+[2020-08-30 22:54:18] DEBUG [feed: mbcharsetprober.py, 65] EUC-TW Taiwan prober hit error at byte 24
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.01
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.01
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.01
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.42942487984691863
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.938125
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] SHIFT_JIS not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-JP not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-KR not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] CP949 not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] Big5 not active
+[2020-08-30 22:54:18] DEBUG [get_confidence: charsetgroupprober.py, 97] EUC-TW not active
+[2020-08-30 22:54:18] DEBUG [query: db.py, 14] SELECT * FROM pms_brand WHERE name="VIVO";

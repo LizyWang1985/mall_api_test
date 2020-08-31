@@ -1,0 +1,251 @@
+[2020-08-24 22:27:51] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-24 22:27:51] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "POST /manager/admin/login HTTP/1.1" 200 None
+[2020-08-24 22:30:22] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-24 22:30:22] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "POST /manager/admin/login HTTP/1.1" 200 None
+[2020-08-24 22:30:22] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-24 22:30:22] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "GET /manager/prefrenceArea/listAll HTTP/1.1" 200 None
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.99
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] SHIFT_JIS Japanese confidence = 0.01
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-JP Japanese confidence = 0.01
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-KR Korean confidence = 0.01
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] CP949 Korean confidence = 0.01
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] Big5 Chinese confidence = 0.01
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-TW Taiwan confidence = 0.01
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.20686053159908907
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.0
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.0
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.0
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.2691660116617005
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.99
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] SHIFT_JIS Japanese confidence = 0.01
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-JP Japanese confidence = 0.01
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-KR Korean confidence = 0.01
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] CP949 Korean confidence = 0.01
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] Big5 Chinese confidence = 0.01
+[2020-08-24 22:30:22] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-TW Taiwan confidence = 0.01
+[2020-08-24 22:31:39] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-24 22:31:39] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "POST /manager/admin/login HTTP/1.1" 200 None
+[2020-08-24 22:31:39] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-24 22:31:39] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "GET /manager/prefrenceArea/listAll HTTP/1.1" 200 None
+[2020-08-24 22:36:44] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-24 22:36:45] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "POST /manager/admin/login HTTP/1.1" 200 None
+[2020-08-24 22:36:45] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-24 22:36:45] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "GET /manager/prefrenceArea/listAll HTTP/1.1" 200 None
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.99
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] SHIFT_JIS Japanese confidence = 0.01
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-JP Japanese confidence = 0.01
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-KR Korean confidence = 0.01
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] CP949 Korean confidence = 0.01
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] Big5 Chinese confidence = 0.01
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-TW Taiwan confidence = 0.01
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.20686053159908907
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.0
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.0
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.0
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.2691660116617005
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.99
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] SHIFT_JIS Japanese confidence = 0.01
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-JP Japanese confidence = 0.01
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-KR Korean confidence = 0.01
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] CP949 Korean confidence = 0.01
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] Big5 Chinese confidence = 0.01
+[2020-08-24 22:36:45] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-TW Taiwan confidence = 0.01
+[2020-08-24 22:36:54] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-24 22:36:54] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "POST /manager/admin/login HTTP/1.1" 200 None
+[2020-08-24 22:36:54] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-24 22:36:54] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "GET /manager/prefrenceArea/listAll HTTP/1.1" 200 None
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.99
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] SHIFT_JIS Japanese confidence = 0.01
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-JP Japanese confidence = 0.01
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-KR Korean confidence = 0.01
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] CP949 Korean confidence = 0.01
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] Big5 Chinese confidence = 0.01
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-TW Taiwan confidence = 0.01
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.20686053159908907
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.0
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.0
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.0
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.2691660116617005
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.99
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] SHIFT_JIS Japanese confidence = 0.01
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-JP Japanese confidence = 0.01
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-KR Korean confidence = 0.01
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] CP949 Korean confidence = 0.01
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] Big5 Chinese confidence = 0.01
+[2020-08-24 22:36:54] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-TW Taiwan confidence = 0.01
+[2020-08-24 22:41:32] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-24 22:41:32] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "POST /manager/admin/login HTTP/1.1" 200 None
+[2020-08-24 22:41:32] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-24 22:41:32] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "GET /manager/prefrenceArea/listAll HTTP/1.1" 200 None
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.99
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] SHIFT_JIS Japanese confidence = 0.01
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-JP Japanese confidence = 0.01
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-KR Korean confidence = 0.01
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] CP949 Korean confidence = 0.01
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] Big5 Chinese confidence = 0.01
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-TW Taiwan confidence = 0.01
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.20686053159908907
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.0
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.0
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.0
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.2691660116617005
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.99
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] SHIFT_JIS Japanese confidence = 0.01
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-JP Japanese confidence = 0.01
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-KR Korean confidence = 0.01
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] CP949 Korean confidence = 0.01
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] Big5 Chinese confidence = 0.01
+[2020-08-24 22:41:32] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-TW Taiwan confidence = 0.01
+[2020-08-24 22:42:14] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-24 22:42:14] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "POST /manager/admin/login HTTP/1.1" 200 None
+[2020-08-24 22:42:14] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-24 22:42:14] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "GET /manager/prefrenceArea/listAll HTTP/1.1" 200 None
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.99
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] SHIFT_JIS Japanese confidence = 0.01
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-JP Japanese confidence = 0.01
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-KR Korean confidence = 0.01
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] CP949 Korean confidence = 0.01
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] Big5 Chinese confidence = 0.01
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-TW Taiwan confidence = 0.01
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.20686053159908907
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.0
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.0
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.0
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.2691660116617005
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.99
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] SHIFT_JIS Japanese confidence = 0.01
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-JP Japanese confidence = 0.01
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-KR Korean confidence = 0.01
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] CP949 Korean confidence = 0.01
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] Big5 Chinese confidence = 0.01
+[2020-08-24 22:42:14] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-TW Taiwan confidence = 0.01
+[2020-08-24 22:42:48] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-24 22:42:48] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "POST /manager/admin/login HTTP/1.1" 200 None
+[2020-08-24 22:42:48] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-24 22:42:48] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "GET /manager/prefrenceArea/listAll HTTP/1.1" 200 None
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.99
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] SHIFT_JIS Japanese confidence = 0.01
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-JP Japanese confidence = 0.01
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-KR Korean confidence = 0.01
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] CP949 Korean confidence = 0.01
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] Big5 Chinese confidence = 0.01
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-TW Taiwan confidence = 0.01
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.20686053159908907
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.0
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.0
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.0
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.2691660116617005
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.99
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] SHIFT_JIS Japanese confidence = 0.01
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-JP Japanese confidence = 0.01
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-KR Korean confidence = 0.01
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] CP949 Korean confidence = 0.01
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] Big5 Chinese confidence = 0.01
+[2020-08-24 22:42:48] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-TW Taiwan confidence = 0.01
+[2020-08-24 22:48:39] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-24 22:48:39] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "POST /manager/admin/login HTTP/1.1" 200 None
+[2020-08-24 22:48:39] DEBUG [_new_conn: connectionpool.py, 221] Starting new HTTP connection (1): 139.199.12.254:80
+[2020-08-24 22:48:39] DEBUG [_make_request: connectionpool.py, 428] http://139.199.12.254:80 "GET /manager/prefrenceArea/listAll HTTP/1.1" 200 None
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.99
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] SHIFT_JIS Japanese confidence = 0.01
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-JP Japanese confidence = 0.01
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-KR Korean confidence = 0.01
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] CP949 Korean confidence = 0.01
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] Big5 Chinese confidence = 0.01
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-TW Taiwan confidence = 0.01
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Russian confidence = 0.01
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] KOI8-R Russian confidence = 0.01
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Russian confidence = 0.0
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] MacCyrillic Russian confidence = 0.0
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM866 Russian confidence = 0.20686053159908907
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] IBM855 Russian confidence = 0.0
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-7 Greek confidence = 0.0
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1253 Greek confidence = 0.0
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-5 Bulgairan confidence = 0.0
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1251 Bulgarian confidence = 0.0
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] TIS-620 Thai confidence = 0.0
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] ISO-8859-9 Turkish confidence = 0.2691660116617005
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] windows-1255 Hebrew confidence = 0.0
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] utf-8  confidence = 0.99
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] SHIFT_JIS Japanese confidence = 0.01
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-JP Japanese confidence = 0.01
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] GB2312 Chinese confidence = 0.01
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-KR Korean confidence = 0.01
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] CP949 Korean confidence = 0.01
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] Big5 Chinese confidence = 0.01
+[2020-08-24 22:48:39] DEBUG [get_confidence: charsetgroupprober.py, 100] EUC-TW Taiwan confidence = 0.01
